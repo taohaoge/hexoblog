@@ -8,7 +8,7 @@ menu:
 subnav:
   github: "#"
   weibo: "#"
-  rss: "#"
+  rss: "/atom.xml"
   zhihu: "#"
   #douban: "#"
   #mail: "#"
@@ -48,8 +48,8 @@ tagcloud: true
 #不开启——
 #friends: false
 #开启——
-#friends:
-#  托蒂的博客: http://localhost:4000/
+friends:
+    sitemap: http://taohaoge.github.io/sitemap.xml 
 
 #是否开启“关于我”。
 #不开启——
